@@ -20,29 +20,29 @@ The bank lacked a centralized reporting system. Executive teams were struggling 
 ## 🚀 Features
 
 ### 📊 Financial KPIs Tracked
-* **Total Balance:** $254.66M[cite: 1]
-* **Total Customers:** 5,050[cite: 1]
-* **Total Loan Amount:** $644.33M[cite: 1]
-* **Active Accounts:** 5,062 (99.25% Active Rate)[cite: 1]
-* **Support Resolution Rate:** 49.32%[cite: 1]
-* **Active Cards:** 3,809[cite: 1]
+* **Total Balance:** $254.66M
+* **Total Customers:** 5,050
+* **Total Loan Amount:** $644.33M
+* **Active Accounts:** 5,062 (99.25% Active Rate)
+* **Support Resolution Rate:** 49.32%
+* **Active Cards:** 3,809
 
 ### 📑 Dashboard Pages
-1. **Executive Overview:** High-level summary of total balances, deposits, and loan amounts filtered by state and account type[cite: 1].
-2. **Customer Analytics:** Demographic breakdowns, customer growth metrics, and product adoption rates[cite: 1].
-3. **Account Analytics:** Detailed view of active vs. dormant accounts and top 10 customers by balance[cite: 1].
-4. **Transaction Analytics:** Seasonal and monthly trends across deposits, payments, transfers, and withdrawals[cite: 1].
-5. **Loan Analytics:** Risk assessment tracking $644.33M in loans across Business, Education, Home, Personal, and Car categories[cite: 1].
-6. **Card Analytics:** Monitoring 4,000 total cards, including 83 expiring within 30 days, distributed across Credit, Debit, and Prepaid[cite: 1].
-7. **Support Center:** Performance metrics analyzing 3,100 calls, issue types, and resolution rates[cite: 1].
+1. **Executive Overview:** High-level summary of total balances, deposits, and loan amounts filtered by state and account type.
+2. **Customer Analytics:** Demographic breakdowns, customer growth metrics, and product adoption rates.
+3. **Account Analytics:** Detailed view of active vs. dormant accounts and top 10 customers by balance.
+4. **Transaction Analytics:** Seasonal and monthly trends across deposits, payments, transfers, and withdrawals.
+5. **Loan Analytics:** Risk assessment tracking $644.33M in loans across Business, Education, Home, Personal, and Car categories.
+6. **Card Analytics:** Monitoring 4,000 total cards, including 83 expiring within 30 days, distributed across Credit, Debit, and Prepaid.
+7. **Support Center:** Performance metrics analyzing 3,100 calls, issue types, and resolution rates.
 
 ---
 
 ## 🔍 Insights & Business Value
-- **Customer Service Bottleneck:** The support center is struggling with a 49.32% resolution rate out of 3,100 calls, identifying a critical area for operational improvement[cite: 1].
-- **Strong Account Retention:** With 99.25% of accounts remaining active and only 38 dormant accounts, the bank has excellent baseline retention[cite: 1].
-- **Balanced Transaction Volume:** Transaction types are evenly distributed (Deposits, Payments, Transfers, and Withdrawals all hover around 24.6% - 25.2%), indicating healthy, multi-use customer behavior[cite: 1].
-- **Loan Distribution:** Loans are robustly distributed, with Personal ($161M), Home ($160M), and Education ($154M) driving substantial revenue[cite: 1].
+- **Customer Service Bottleneck:** The support center is struggling with a 49.32% resolution rate out of 3,100 calls, identifying a critical area for operational improvement.
+- **Strong Account Retention:** With 99.25% of accounts remaining active and only 38 dormant accounts, the bank has excellent baseline retention.
+- **Balanced Transaction Volume:** Transaction types are evenly distributed (Deposits, Payments, Transfers, and Withdrawals all hover around 24.6% - 25.2%), indicating healthy, multi-use customer behavior.
+- **Loan Distribution:** Loans are robustly distributed, with Personal ($161M), Home ($160M), and Education ($154M) driving substantial revenue.
 
 ---
 
@@ -59,14 +59,14 @@ The bank lacked a centralized reporting system. Executive teams were struggling 
 - Built custom date tables for time-intelligence calculations.
 
 ### DAX Measures
-- `Customer Growth %` = Year-over-year calculation of new customer acquisition[cite: 1].
-- `Resolution Rate` = `DIVIDE([Resolved Calls], [Total Calls], 0)`[cite: 1].
-- `Expiring in 30 Days` = Filtered count of cards with expiration dates falling within the next month[cite: 1].
+- `Customer Growth %` = Year-over-year calculation of new customer acquisition.
+- `Resolution Rate` = `DIVIDE([Resolved Calls], [Total Calls], 0)`.
+- `Expiring in 30 Days` = Filtered count of cards with expiration dates falling within the next month.
 
 ### Visualizations & UX/UI
-- **Color Theme:** Professional teal, blue, and navy palette ensuring high contrast and modern aesthetics[cite: 1].
-- **Navigation:** Persistent sidebar navigation enabling seamless transitions between the 7 reporting pages[cite: 1].
-- **Slicers:** Intuitive filtering by Account Type, State, Customer Segment, Date, and Issue Type[cite: 1].
+- **Color Theme:** Professional teal, blue, and navy palette ensuring high contrast and modern aesthetics.
+- **Navigation:** Persistent sidebar navigation enabling seamless transitions between the 7 reporting pages.
+- **Slicers:** Intuitive filtering by Account Type, State, Customer Segment, Date, and Issue Type.
 
 ---
 
@@ -89,5 +89,5 @@ View the interactive dashboard here:
 - Implement a drill-through feature to view individual transaction histories directly from the top 10 customer list.
 
 ## ✍️ Author
-*(Your Name)*
+*(Mohamed Samir)*
 Data Analyst | Power BI Developer
