@@ -17,13 +17,6 @@ The bank lacked a centralized reporting system. Executive teams were struggling 
 - Evaluate loan and credit card distributions to assess risk and profitability.
 - Measure support center performance to enhance customer satisfaction.
 
----
-
-## 🖼️ Dashboard Preview
-*(Add a high-resolution screenshot of the Executive Overview page here)*
-
----
-
 ## 🚀 Features
 
 ### 📊 Financial KPIs Tracked
